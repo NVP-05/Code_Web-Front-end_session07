@@ -1,0 +1,15 @@
+.anh{
+    background-color: rgb(180, 175, 175);
+    height: 250px;
+    width: 350px;
+    text-align: center;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-top: 18px;
+    box-shadow: 2px 2px 20px;
+    border: 20px solid white;
+    border-radius: 100%;
+}
